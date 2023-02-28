@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(stacked-peaks-haikei.svg);
+    background-image: url("stacked-peaks-haikei.svg");
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh
